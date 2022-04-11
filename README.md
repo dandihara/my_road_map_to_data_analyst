@@ -11,3 +11,6 @@ pandas.series -> like enumerate (index, data ...)  +  dictionary frame.
                 st[['a','b']] => a 1 / b 2
                 # list comprehension 사용 빈도 늘릴 것. 코드 가독성 높일 수 있을 듯.
                 # list comprehesnion VS map 어떤 것이 속도면이나 메모리 사용면에서 차이를 알아보자.
+                
+                
+pandas - 컬럼 단위로 접근하는데 용이. R의 dataframe을 차용하여 만든 것이 Pandas!
