@@ -14,3 +14,5 @@ pandas.series -> like enumerate (index, data ...)  +  dictionary frame.
                 
                 
 pandas - 컬럼 단위로 접근하는데 용이. R의 dataframe을 차용하여 만든 것이 Pandas!
+
+numpy - matrix관련 메서드와 matrix 산술계산 메서드를 포함.
